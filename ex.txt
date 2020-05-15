@@ -1,0 +1,20 @@
+first = one1 + two2 - three3 / four4 ;
+second = one1 * (two2 * three3) ;
+i = i ? i ;
+f + (f + f) + f
+hi + hi
+i ? i
+first = one1 + ( how % how) ;
+f + how =
+second = one1 * (two2 * three3) ;
+third = ONE + twenty - three3 ;
+third = old * thirty2 / b567 ;
+hi + hi % hi
+i123 = abc ? 50 ;
+third = one1 + 24 - three3 ;
+one1 * i8766e98e + bignum
+first = = one1 + two2 - three3 / four4 ;
+first = one1 + two2 - three3 / four4
+one +- delta
+sixty6 / min = fourth ;
+kjd839 = idijd8388 / (jieo3 % dji) ;
